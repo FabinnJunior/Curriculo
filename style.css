@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    box-sizing: border-box;
+}
+
+
+
+.cab_but{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 24px;
+    padding: 20px;
+    
+    background-color: white;
+}
+
+a:link{
+
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right:70px ;  
+}
+
+a:visited{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right:70px ;
+
+}
+
+.logo{
+
+    display: flex;
+
+    font-size: 24px;
+    margin-right: 85%;
+}
+body{
+    background-color: white;
+    
+    
+
+}
+
+.imgMeio{
+    width: 400px;
+    height: 400px;
+
+    margin-left: 200px;
+    border-radius: 50%;
+    border: 2px solid #818181;
+}
+
+.meio{
+    display: flex;
+
+    align-items: center;
+    background-color: #000000;
+    box-shadow: 0px 5px 3px #242424 inset;
+}
+
+.textomeio{
+    font-size: 32px;
+    margin: 150px;
+
+    color: white;
+
+    
+}
+
+.titulomeio{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.meiohabtitulo{
+    text-align: center;
+
+    margin-top: 30px;
+    font-size:56px;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+
+}
+
+.meioT{
+    color: rgb(0, 0, 0);
+    
+
+    margin: 20px;
+}
+
+
+.botaosobre{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    font-size: 24px;
+    margin-top: 50px;
+    width: fit-content;
+
+    color: red;
+    border-radius: 15%;
+}
+
+.logosBaixo{
+    width: 100%;
+    display: flex;
+    
+    flex-direction: column;
+    
+}
+
+.programaçãoIcon{
+    display: flex;
+    justify-content: center;
+
+    margin: 20px;
+    gap: 20px;
+}
+
+.designIcon{
+    display: flex;
+    justify-content: center;
+
+    margin: 20px;
+    gap: 20px;
+
+}
+
+.textoEd{
+    display: flex;
+
+    margin-top: 20px;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.textoDes{
+    display: flex;
+
+    
+    text-decoration: underline;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+
+.meioFooter{
+    background-color: #000000;
+    height: 1300px;
+    
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+.tituloFooter{
+    text-align: center;
+    margin-top: 20px;
+
+    font-size:56px;
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+}
+
+.textoFooter{
+
+    margin-left: 100px;
+    margin-right: 100px;    
+    font-size: 24px;
+    color: white;
+    
+}
+
+.tituloHTMLCSSfooter{
+    text-align: center;
+    
+    font-size:40px;
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+}
+
+.finalPag{
+
+    height: 250px;
+    margin-top: 30px;
+}
+
+.titulofinalpag{
+    text-align: center;
+    
+    font-size:40px;
+    text-decoration: underline;
+}
+
+.textofinalpag{
+    margin-left: 100px;
+    margin-right: 100px;    
+    font-size: 24px;
+}
+
+.contato{
+    background-color: black;
+    height: 150px;
+}
+
+.TituloContato{
+
+    color: white;
+    text-align: center;
+    
+    font-size:40px;
+    text-decoration: underline;
+}
+
+.Redesocial{
+
+    color: white;
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.ContatoTexto{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    
+}
